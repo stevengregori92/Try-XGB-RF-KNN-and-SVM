@@ -6,4 +6,4 @@ This main model contains of:
 - Training with SVR and GridSearchCV
 - Training with KNeighborsRegressor and GridSearchCV
 
-If the jupyter notebook file have a problem, you can open https://nbviewer.org/ to render the notebook as a static HTML web page
+If you want to see the rendered the jupyter notebook, you can put github link at https://nbviewer.org/ to render the notebook as a static HTML web page
